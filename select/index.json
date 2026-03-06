@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Skyreach",
+  "base_artist": "Sora Amamiya",
+  "createdAt": "2026-03-06T07:14:27.876973Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Skyreach",
+      "artist": "雨宮天",
+      "has_synced": true,
+      "path": "select/01_Skyreach_雨宮天.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Skyreach",
+      "artist": "Amamiya Sora",
+      "has_synced": true,
+      "path": "select/02_Skyreach_Amamiya_Sora.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mistake (Live at Skyreach Centre, Edmonton, AB, 1/25/2002)",
+      "artist": "Nickelback",
+      "has_synced": false,
+      "path": "select/03_Mistake_(Live_at_Skyreach_Centre,_Edmonton,_AB,_1_25_2002)_Nickelback.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Skyreach",
+      "artist": "雨宮 天",
+      "has_synced": true,
+      "path": "select/04_Skyreach_雨宮_天.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Skyreach",
+      "artist": "Amamiya Sora",
+      "has_synced": true,
+      "path": "select/05_Skyreach_Amamiya_Sora.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Skyreach Feat. ＊Ageha (dj-Jo Remix) Instrumental",
+      "artist": "Dj-Jo",
+      "has_synced": true,
+      "path": "select/06_Skyreach_Feat.__Ageha_(dj-Jo_Remix)_Instrumental_Dj-Jo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Skyreach Feat. ＊Ageha (dj-Jo Remix)",
+      "artist": "dj-Jo",
+      "has_synced": true,
+      "path": "select/07_Skyreach_Feat.__Ageha_(dj-Jo_Remix)_dj-Jo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Skyreach",
+      "artist": "雨宮天",
+      "has_synced": true,
+      "path": "select/08_Skyreach_雨宮天.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Skyreach",
+      "artist": "雨宮天",
+      "has_synced": true,
+      "path": "select/09_Skyreach_雨宮天.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Skyreach",
+      "artist": "Amamiya Sora",
+      "has_synced": true,
+      "path": "select/10_Skyreach_Amamiya_Sora.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Skyreach",
+      "artist": "Sora Amamiya",
+      "has_synced": true,
+      "path": "select/11_Skyreach_Sora_Amamiya.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Skyreach",
+      "artist": "Sora Amamiya",
+      "has_synced": true,
+      "path": "select/12_Skyreach_Sora_Amamiya.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Skyreach",
+      "artist": "雨宮天",
+      "has_synced": true,
+      "path": "select/13_Skyreach_雨宮天.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Skyreach",
+      "artist": "麻倉もも",
+      "has_synced": true,
+      "path": "select/14_Skyreach_麻倉もも.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "skyreach",
+      "artist": "asakura momo",
+      "has_synced": true,
+      "path": "select/15_skyreach_asakura_momo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Skyreach",
+      "artist": "雨宮天",
+      "has_synced": false,
+      "path": "select/pl_01_Skyreach_雨宮天.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Skyreach",
+      "artist": "雨宮天",
+      "has_synced": false,
+      "path": "select/pl_02_Skyreach_雨宮天.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Skyreach",
+      "artist": "雨宮天",
+      "has_synced": false,
+      "path": "select/pl_03_Skyreach_雨宮天.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Skyreach",
+      "artist": "雨宮天",
+      "has_synced": false,
+      "path": "select/pl_04_Skyreach_雨宮天.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "skyreach",
+      "artist": "雨宮天",
+      "has_synced": false,
+      "path": "select/pl_05_skyreach_雨宮天.txt"
+    }
+  ]
+}
